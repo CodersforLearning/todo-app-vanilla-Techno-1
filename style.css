@@ -1,0 +1,8 @@
+body {
+    background-image: linear-gradient(gray, blue);
+    background-attachment: fixed;
+}
+
+#numberOfTasks {
+    display: flex;
+}
